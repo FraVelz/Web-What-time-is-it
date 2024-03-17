@@ -12,7 +12,7 @@ Show the time in the browser.
 
 ![Another Image from the web](Image2.png)
 
-<!-- link: [Go to the website.](https://divelz.github.io/Web-What-time-is-it/) -->
+link: [Go to the website.](https://fravelz.github.io/Web-What-time-is-it/)
 
 **Best regard !!!**
 
